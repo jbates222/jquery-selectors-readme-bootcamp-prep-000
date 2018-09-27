@@ -1,9 +1,9 @@
-$(document).ready(paragraphSelector)
-
-
-function paragraphSelector() {
+$(document).ready(paragraphSelector() {
   $('p');
-}
+});
+
+
+
 function lastImageSelector() {
   $('div:last');
 }
